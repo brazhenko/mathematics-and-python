@@ -1,0 +1,5 @@
+строка для записи в файл
+ string to write 
+HA 
+ HaHA 
+ Ha
